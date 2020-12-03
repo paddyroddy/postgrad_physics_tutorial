@@ -9,3 +9,8 @@ A demonstration of various useful tools
 ## pre-commit
 
 Execute `pip install pre-commit; pre-commit install` to install hooks in your `.git/` directory
+
+## To build script
+
+Run `pip install -e .` in the top level directory.
+Then you can run `woo` in the command line (and pass any arguments you want).
